@@ -1,8 +1,8 @@
 {
-  "name": "defillama",
+  "name": "polybees",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://defillama.com/",
+  "private": false,
+  "homepage": "https://polybees.network/",
   "dependencies": {
     "@popperjs/core": "^2.4.2",
     "@reach/portal": "^0.10.3",
